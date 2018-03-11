@@ -1,0 +1,22 @@
+GNU Prolog 1.4.4 (64 bits)
+Compiled Nov  6 2014, 18:04:28 with gcc
+By Daniel Diaz
+Copyright (C) 1999-2013 Daniel Diaz
+| ?- $Id: group4.tests,v 1.2 2016-11-21 14:06:16-08 - - $
+
+yes
+| ?- compiling /afs/cats.ucsc.edu/class/cmps112-wm.s17/.admin/asg4/ntripat1/database.pl for byte code...
+/afs/cats.ucsc.edu/class/cmps112-wm.s17/.admin/asg4/ntripat1/database.pl compiled, 75 lines read - 11193 bytes written, 9 ms
+
+(2 ms) yes
+| ?- compiling /afs/cats.ucsc.edu/class/cmps112-wm.s17/.admin/asg4/ntripat1/functions.pl for byte code...
+/afs/cats.ucsc.edu/class/cmps112-wm.s17/.admin/asg4/ntripat1/functions.pl compiled, 120 lines read - 15223 bytes written, 9 ms
+
+(2 ms) yes
+| ?- Error: nonexistent airports.
+
+no
+| ?- Error: nonexistent airports.
+
+no
+| ?- 
